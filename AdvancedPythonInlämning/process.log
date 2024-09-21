@@ -1,0 +1,51 @@
+2024-09-18 19:25:04,507 - INFO - Starting to fetch and transform world bank indicator data.
+2024-09-18 19:25:10,527 - INFO - Data successfully fetched and transformed.
+2024-09-18 19:25:10,527 - INFO - Starting to save data to sql server
+2024-09-18 19:30:03,580 - INFO - Starting to fetch and transform world bank indicator data.
+2024-09-18 19:30:08,001 - INFO - Data successfully fetched and transformed.
+2024-09-18 19:30:08,013 - INFO - Starting to save data to sql server
+2024-09-18 19:35:03,340 - INFO - Starting to fetch and transform world bank indicator data.
+2024-09-18 19:35:08,615 - INFO - Data successfully fetched and transformed.
+2024-09-18 19:35:08,615 - INFO - Starting to save data to sql server
+2024-09-18 19:40:03,888 - INFO - Starting to fetch and transform world bank indicator data.
+2024-09-18 19:40:08,007 - INFO - Data successfully fetched and transformed.
+2024-09-18 19:40:08,007 - INFO - Starting to save data to sql server
+2024-09-18 19:45:04,557 - INFO - Starting to fetch and transform world bank indicator data.
+2024-09-18 19:45:09,895 - INFO - Data successfully fetched and transformed.
+2024-09-18 19:45:09,895 - INFO - Starting to save data to sql server
+2024-09-18 20:21:24,135 - INFO - Starting to fetch and transform world bank indicator data.
+2024-09-18 20:21:26,201 - INFO - Data successfully fetched and transformed.
+2024-09-18 20:21:26,201 - INFO - Starting to save data to sql server
+2024-09-18 20:21:26,504 - ERROR - Error saving data to SQL server: NDFrame.to_sql() got an unexpected keyword argument 'table_name'
+2024-09-18 20:22:28,245 - INFO - Starting to fetch and transform world bank indicator data.
+2024-09-18 20:22:30,288 - INFO - Data successfully fetched and transformed.
+2024-09-18 20:22:30,288 - INFO - Starting to save data to sql server
+2024-09-18 20:22:30,383 - ERROR - Error saving data to SQL server: NDFrame.to_sql() got an unexpected keyword argument 'table_name'
+2024-09-18 20:29:24,906 - INFO - Starting to fetch and transform world bank indicator data.
+2024-09-18 20:29:28,429 - INFO - Data successfully fetched and transformed.
+2024-09-18 20:29:28,429 - INFO - Starting to save data to sql server
+2024-09-18 20:29:29,687 - INFO - Data successfully saved in SQL server as table indicator_fact.
+2024-09-18 20:30:49,838 - INFO - Starting to fetch and transform world bank indicator data.
+2024-09-18 20:30:54,098 - INFO - Data successfully fetched and transformed.
+2024-09-18 20:30:54,098 - INFO - Starting to save data to sql server
+2024-09-18 20:30:54,129 - ERROR - Error saving data to SQL server: No module named 'pyodbc'
+2024-09-18 20:31:38,849 - INFO - Starting to fetch and transform world bank indicator data.
+2024-09-18 20:31:44,407 - INFO - Data successfully fetched and transformed.
+2024-09-18 20:31:44,407 - INFO - Starting to save data to sql server
+2024-09-18 20:31:45,742 - INFO - Data successfully saved in SQL server as table indicator_fact.
+2024-09-18 20:35:04,432 - INFO - Starting to fetch and transform world bank indicator data.
+2024-09-18 20:35:10,104 - INFO - Data successfully fetched and transformed.
+2024-09-18 20:35:10,104 - INFO - Starting to save data to sql server
+2024-09-18 20:35:11,060 - INFO - Data successfully saved in SQL server as table indicator_fact.
+2024-09-18 20:40:04,431 - INFO - Starting to fetch and transform world bank indicator data.
+2024-09-18 20:40:09,181 - INFO - Data successfully fetched and transformed.
+2024-09-18 20:40:09,196 - INFO - Starting to save data to sql server
+2024-09-18 20:40:09,648 - INFO - Data successfully saved in SQL server as table indicator_fact.
+2024-09-18 20:45:03,304 - INFO - Starting to fetch and transform world bank indicator data.
+2024-09-18 20:45:08,525 - INFO - Data successfully fetched and transformed.
+2024-09-18 20:45:08,525 - INFO - Starting to save data to sql server
+2024-09-18 20:45:08,757 - INFO - Data successfully saved in SQL server as table indicator_fact.
+2024-09-20 21:38:23,152 - INFO - Starting to fetch and transform world bank indicator data.
+2024-09-20 21:38:30,961 - INFO - Data successfully fetched and transformed.
+2024-09-20 21:38:30,961 - INFO - Starting to save data to sql server
+2024-09-20 21:38:32,637 - INFO - Data successfully saved in SQL server as table indicator_fact.
