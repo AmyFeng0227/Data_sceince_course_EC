@@ -1,1 +1,28 @@
+# World Bank Indicator Automation Project
+This project automates the process of fetching data from the World Bank API, storing it in a SQL Server database, and creating a Power BI report based on that data. The data is updated daily using Windows Task Scheduler, and the Power BI report is refreshed daily automatically too. 
+
+## Features
+ - Fetches World Bank data automatically via API.
+ - Process the data and stores it in an SQL Server database.
+ - Updates a Power BI report with the latest data. 
+
+## Requirements
+ - Python 3.x
+ - SQL Server
+ - Power BI
+ - Python Libraries:
+ - pandas
+ - wbgapi
+ - SQLAlchemy
+ - pyodbc
+
+## Usage
+Automate the script using Windows Task Scheduler to run daily.
+The main script for automation is wb_automate.py.
+View the updated Power BI report after the database is refreshed. 
+Contact fengshangchanhui@gmail.com for access to report.
+
+## Testing
+Run the automated tests using pytest
+
 
