@@ -1,0 +1,10 @@
+Självutvärdering
+
+• Utmaningar du haft under arbetet samt hur du hanterat dem.
+Jag upplevde en del strul med synkningen när jag satte upp SQL Server, kanske för att jag använde min jobbdator som har en del restriktioner. Så jag bytte till min privata dator och då fungerade det mycket bättre. Jag fick också ett felmeddelande när jag körde Python skriptet med Schemaläggaren. Jag testade då att köra Python filen i kommando terminalen och insåg att vissa bibliotek inte var installerade i den miljö där skriptet skulle köras. Därefter installerade jag alla bibliotek igen via kommando terminalen, och sedan fungerade allt.
+
+• Vilket betyg du anser att du skall ha och varför.
+VG. Tror jag har gjort allt som krävs av VG, sedan den lilla extra med visualisering i PowerBI
+
+• Något du vill lyfta fram till Linus och Antonio?
+Tyckte om boken! strukturerad och super tydligt med förklaring. Önskar för mer utmannande övningar.
